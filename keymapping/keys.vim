@@ -7,6 +7,11 @@ nnoremap <silent> <Leader><Leader> :source $MYVIMRC<cr>
 "Change working directory
 nnoremap <leader>cd :cd %:p:h<cr>
 
+"Guardar ctrl + s
+  nmap <c-s> :w<CR>
+   imap <c-s> <c-o>:w<CR>
+
+
 "Mapping NERDTree
 map <C-n> :NERDTreeToggle<cr>
 

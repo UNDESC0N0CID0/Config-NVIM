@@ -1,3 +1,4 @@
 {
-    "python.jediPath": "home/user/.local/lib/python3.9/site-packages"
+    "python.jediPath": "home/user/.local/lib/python3.9/site-packages",
+    "diagnostic.enable": false
 }
