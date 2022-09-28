@@ -46,3 +46,11 @@ nnoremap <leader><S-tab> :bp<cr>
 
 " Closing and hiding current buffer
 nnoremap <leader>w :bd<cr>
+
+"New terminal
+vnoremap <c-t> :split<CR>:terminal<CR>:resize 15<CR>
+nnoremap <c-t> :split<CR>:terminal<CR>:resize 15<CR>
+
+"close document (Buffer)
+vnoremap <c-x> :bd<CR>
+nnoremap <c-x> :bd<CR>
