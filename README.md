@@ -19,7 +19,7 @@ $ sudo apt-get install npm
 ### Nerdfont (Tipo de Letra)
 Para poder visualizar los iconos en la terminal es necesario tener un tipo de letra que lo soporte, en lo personal a mi me gustan las Nerdfonts.
 
-[DejaVuSansMono Nerd Font.]([https://linuxfacil.mx/blog/neovim/como-configurar-neovim-como-vscode-para-python](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/DejaVuSansMono.zip))
+[DejaVuSansMono Nerd Font.](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/DejaVuSansMono.zip)
 
 Una vez que hayas descargado el archivo, descomprimelo y copia los archivos (*.ttf) al siguiente directorio:
 ```
